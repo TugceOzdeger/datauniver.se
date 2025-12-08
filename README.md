@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/cde1a5b4-fbbc-4bd4-917b-94347e22fff2" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/cde1a5b4-fbbc-4bd4-917b-94347e22fff2" />
 
 <h2>Data Platform Strategy: Why a Modern Architecture is a Business Enabler</h2>
 
