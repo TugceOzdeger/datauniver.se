@@ -1,4 +1,4 @@
-Data Platform Strategy: Why a Modern Architecture is a Business Enabler
+<h2>Data Platform Strategy: Why a Modern Architecture is a Business Enabler</h2>
 
 Organizations today generate more data than ever, but only a fraction is leveraged for strategic decisions. Many struggle with slow reports, inconsistent insights, and siloed data. Modern data architecture is the solution that turns raw data into a business advantage.
 
